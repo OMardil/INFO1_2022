@@ -1,0 +1,269 @@
+{
+  "selectedSlideId": 0,
+  "slides": [
+    {
+      "filename": "092DAD44-C573-4E46-B165-DA11329A926D.jpg",
+      "slideType": "Image",
+      "sharingSource": "FromMonitor",
+      "sceneId": "3D597247-A990-4DD2-A3C9-208A85008443",
+      "isMuted": false,
+      "isLooped": false,
+      "isResumePlayback": false,
+      "aspectRatio": 0
+    },
+    {
+      "filename": "76D7BB50-120C-408D-A4EE-790998ABB0B4.jpg",
+      "slideType": "Image",
+      "sharingSource": "FromMonitor",
+      "sceneId": "3D597247-A990-4DD2-A3C9-208A85008443",
+      "isMuted": false,
+      "isLooped": false,
+      "isResumePlayback": false,
+      "aspectRatio": 0
+    },
+    {
+      "filename": "2F08A232-3C8E-4AB6-90B8-FA333BD3419B.jpg",
+      "slideType": "Image",
+      "sharingSource": "FromMonitor",
+      "sceneId": "3D597247-A990-4DD2-A3C9-208A85008443",
+      "isMuted": false,
+      "isLooped": false,
+      "isResumePlayback": false,
+      "aspectRatio": 0
+    },
+    {
+      "filename": "413B8781-36B5-42B2-ACEE-540A5AAA959C.jpg",
+      "slideType": "Image",
+      "sharingSource": "FromMonitor",
+      "sceneId": "3D597247-A990-4DD2-A3C9-208A85008443",
+      "isMuted": false,
+      "isLooped": false,
+      "isResumePlayback": false,
+      "aspectRatio": 0
+    },
+    {
+      "filename": "29C5400E-924C-4A27-918F-95F8039AE41D.jpg",
+      "slideType": "Image",
+      "sharingSource": "FromMonitor",
+      "sceneId": "3D597247-A990-4DD2-A3C9-208A85008443",
+      "isMuted": false,
+      "isLooped": false,
+      "isResumePlayback": false,
+      "aspectRatio": 0
+    },
+    {
+      "filename": "CED6DE42-9AFA-4C17-BA14-7635529ABDAE.jpg",
+      "slideType": "Image",
+      "sharingSource": "FromMonitor",
+      "sceneId": "3D597247-A990-4DD2-A3C9-208A85008443",
+      "isMuted": false,
+      "isLooped": false,
+      "isResumePlayback": false,
+      "aspectRatio": 0
+    },
+    {
+      "filename": "B71ED48C-78F6-4F14-B008-2824A5E10FC3.jpg",
+      "slideType": "Image",
+      "sharingSource": "FromMonitor",
+      "sceneId": "3D597247-A990-4DD2-A3C9-208A85008443",
+      "isMuted": false,
+      "isLooped": false,
+      "isResumePlayback": false,
+      "aspectRatio": 0
+    },
+    {
+      "filename": "BDCFAAD2-22C1-464A-BF3D-306C92E58F75.jpg",
+      "slideType": "Image",
+      "sharingSource": "FromMonitor",
+      "sceneId": "3D597247-A990-4DD2-A3C9-208A85008443",
+      "isMuted": false,
+      "isLooped": false,
+      "isResumePlayback": false,
+      "aspectRatio": 0
+    },
+    {
+      "filename": "9B252DC0-B97A-4497-B930-0E2DC72B80F0.jpg",
+      "slideType": "Image",
+      "sharingSource": "FromMonitor",
+      "sceneId": "3D597247-A990-4DD2-A3C9-208A85008443",
+      "isMuted": false,
+      "isLooped": false,
+      "isResumePlayback": false,
+      "aspectRatio": 0
+    },
+    {
+      "filename": "44056CFF-4C54-41B6-AFF2-C98DBCAD7BCE.jpg",
+      "slideType": "Image",
+      "sharingSource": "FromMonitor",
+      "sceneId": "3D597247-A990-4DD2-A3C9-208A85008443",
+      "isMuted": false,
+      "isLooped": false,
+      "isResumePlayback": false,
+      "aspectRatio": 0
+    },
+    {
+      "filename": "B82AECA5-2A5B-4246-A6DE-BFEA28461FB1.jpg",
+      "slideType": "Image",
+      "sharingSource": "FromMonitor",
+      "sceneId": "3D597247-A990-4DD2-A3C9-208A85008443",
+      "isMuted": false,
+      "isLooped": false,
+      "isResumePlayback": false,
+      "aspectRatio": 0
+    },
+    {
+      "filename": "2756FD00-6EE4-42E4-B266-70D8EFC4F916.jpg",
+      "slideType": "Image",
+      "sharingSource": "FromMonitor",
+      "sceneId": "3D597247-A990-4DD2-A3C9-208A85008443",
+      "isMuted": false,
+      "isLooped": false,
+      "isResumePlayback": false,
+      "aspectRatio": 0
+    },
+    {
+      "filename": "A31DEAFA-1B5F-4386-A54F-87B4D78CB969.jpg",
+      "slideType": "Image",
+      "sharingSource": "FromMonitor",
+      "sceneId": "3D597247-A990-4DD2-A3C9-208A85008443",
+      "isMuted": false,
+      "isLooped": false,
+      "isResumePlayback": false,
+      "aspectRatio": 0
+    }
+  ],
+  "scenes": [
+    {
+      "id": "3D597247-A990-4DD2-A3C9-208A85008443",
+      "name": "Preset 2",
+      "stage": {
+        "presenterPosition": {
+          "X": 0.5,
+          "Y": 0.5
+        },
+        "presenterSize": 0.28313253012052791,
+        "presenterFullFrameCrop": {
+          "top": 0.0,
+          "bottom": 0.0,
+          "left": 0.125,
+          "right": 0.125
+        },
+        "presenterOpacity": 100,
+        "presenterMask": "None",
+        "stageMode": "Full",
+        "roomName": "San Francisco",
+        "roomId": "c9d5a7d9-6ccf-4e0e-8a31-d415005927f7",
+        "presenterAnchor": "RightUp",
+        "filterId": 0,
+        "customPresenterColor": "#FFD3D3D3",
+        "slideSettings": {
+          "slidePosition": {
+            "X": 0.02982126058325479,
+            "Y": 0.0
+          },
+          "slideSize": {
+            "X": 0.970178739416744,
+            "Y": 0.99999999999999822
+          },
+          "skewX": 0.0,
+          "skewY": 0.0
+        },
+        "shaderRoomSettingsDictionary": {
+          "Waves": {
+            "backgroundTypeEnum": "Waves",
+            "speed": 0.15,
+            "cameraSpeed": 0.5,
+            "scale": 0.5,
+            "colorsIndex": 2,
+            "foregroundIndex": 0,
+            "backgroundIndex": 0,
+            "themeIndex": 0,
+            "paletteIndex": 0,
+            "textureIndex": 0,
+            "shapeIndex": 0,
+            "numSpheres": 0
+          },
+          "Grid": {
+            "backgroundTypeEnum": "Grid",
+            "speed": 0.5,
+            "cameraSpeed": 0.5,
+            "scale": 0.5,
+            "colorsIndex": 0,
+            "foregroundIndex": 3,
+            "backgroundIndex": 0,
+            "themeIndex": 0,
+            "paletteIndex": 0,
+            "textureIndex": 0,
+            "shapeIndex": 3,
+            "numSpheres": 0
+          }
+        }
+      }
+    }
+  ],
+  "stage": {
+    "presenterPosition": {
+      "X": 0.5,
+      "Y": 0.5
+    },
+    "presenterSize": 0.28313253012052791,
+    "presenterFullFrameCrop": {
+      "top": 0.0,
+      "bottom": 0.0,
+      "left": 0.125,
+      "right": 0.125
+    },
+    "presenterOpacity": 100,
+    "presenterMask": "None",
+    "stageMode": "Full",
+    "roomName": "San Francisco",
+    "roomId": "c9d5a7d9-6ccf-4e0e-8a31-d415005927f7",
+    "presenterAnchor": "RightUp",
+    "filterId": 0,
+    "customPresenterColor": "#FFD3D3D3",
+    "slideSettings": {
+      "slidePosition": {
+        "X": 0.02982126058325479,
+        "Y": 0.0
+      },
+      "slideSize": {
+        "X": 0.970178739416744,
+        "Y": 0.99999999999999822
+      },
+      "skewX": 0.0,
+      "skewY": 0.0
+    },
+    "shaderRoomSettingsDictionary": {
+      "Waves": {
+        "backgroundTypeEnum": "Waves",
+        "speed": 0.15,
+        "cameraSpeed": 0.5,
+        "scale": 0.5,
+        "colorsIndex": 2,
+        "foregroundIndex": 0,
+        "backgroundIndex": 0,
+        "themeIndex": 0,
+        "paletteIndex": 0,
+        "textureIndex": 0,
+        "shapeIndex": 0,
+        "numSpheres": 0
+      },
+      "Grid": {
+        "backgroundTypeEnum": "Grid",
+        "speed": 0.5,
+        "cameraSpeed": 0.5,
+        "scale": 0.5,
+        "colorsIndex": 0,
+        "foregroundIndex": 3,
+        "backgroundIndex": 0,
+        "themeIndex": 0,
+        "paletteIndex": 0,
+        "textureIndex": 0,
+        "shapeIndex": 3,
+        "numSpheres": 0
+      }
+    }
+  },
+  "name": "INFO1_MOD03-Logica_Boleana",
+  "version": 2
+}

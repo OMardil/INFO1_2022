@@ -1,0 +1,19 @@
+Error 1: Falta import
+Error 2: ; en linea 4
+Error 3: concatenar esta mal en linea 8
+Error 4: variable mes debe ser de tipo char
+Error 5: Case 12 está repetido
+Error 6: Un char no puede ser de mas de un caracter 
+Error 7: Hacen falta los breaks para todos los case
+Error 8: No está presente un keyboard.close()
+Error 9: Los prints no aparecen en la misma línea
+
+
+Step 1: -2
+a: 1, b: 10, c: 2, result: -2
+Step 2: 2
+a: 1, b: 10, c: 3, result: 2 
+Step 3: 30
+a: 1, b: 10, c: 3, result: 30
+Step 4: 4
+a: 1, b: 10, c: 3, result: 4 
