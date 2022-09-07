@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Omar"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2022-09-06 08:12:27 AM"/>
+        <attribute name="created" value="T21hcjtPTUFSUy1NQUNCT09LLVA7MjAyMi0wOS0wNjswNzo1NjozNiBBTTsyNzQw"/>
+        <attribute name="edited" value="T21hcjtPTUFSUy1NQUNCT09LLVA7MjAyMi0wOS0wNjswODoxMjoyNyBBTTs1OzI4NDU="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="horasTrabajadas" type="Integer" array="False" size=""/>
+            <declare name="sueldoPorHora" type="Real" array="False" size=""/>
+            <declare name="sueldoAPagar" type="Real" array="False" size=""/>
+            <output expression="&quot;Ingresa las horas trabajadas: &quot;" newline="True"/>
+            <input variable="horasTrabajadas"/>
+            <output expression="&quot;Ingresa el sueldo por hora: &quot;" newline="True"/>
+            <input variable="sueldoPorHora"/>
+            <assign variable="sueldoAPagar" expression="horasTrabajadas * sueldoPorHora"/>
+            <if expression="horasTrabajadas &gt; 40">
+                <then>
+                    <assign variable="sueldoAPagar" expression="sueldoAPagar + 0.1*sueldoAPagar"/>
+                </then>
+                <else/>
+            </if>
+            <output expression="&quot;El sueldo a pagar es: &quot;" newline="False"/>
+            <output expression="&quot;$&quot;" newline="False"/>
+            <output expression="sueldoAPagar" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

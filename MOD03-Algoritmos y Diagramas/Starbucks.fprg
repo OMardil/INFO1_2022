@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Omar"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2022-09-07 08:27:42 AM"/>
+        <attribute name="created" value="T21hcjtPTUFSUy1NQUNCT09LLVA7MjAyMi0wOS0wNjswODoxNjowNiBBTTsyNzM0"/>
+        <attribute name="edited" value="T21hcjtPTUFSUy1NQUNCT09LLVA7MjAyMi0wOS0wNzswODoyNzo0MiBBTTs3OzI4NTE="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="tipoBebida" type="Integer" array="False" size=""/>
+            <declare name="costo" type="Real" array="False" size=""/>
+            <declare name="porcentajeAgrandar" type="Real" array="False" size=""/>
+            <declare name="bebidaAgrandada" type="Boolean" array="False" size=""/>
+            <output expression="&quot;Elija su bebida&quot;" newline="True"/>
+            <output expression="&quot;1. Frappuccino&quot;" newline="True"/>
+            <output expression="&quot;2. Cappuccino&quot;" newline="True"/>
+            <input variable="tipoBebida"/>
+            <if expression="tipoBebida == 1">
+                <then>
+                    <output expression="&quot;Elegiste Frappuccino&quot;" newline="True"/>
+                    <assign variable="costo" expression="70"/>
+                    <assign variable="porcentajeAgrandar" expression="0.25"/>
+                </then>
+                <else>
+                    <if expression="tipoBebida == 2">
+                        <then>
+                            <output expression="&quot;Elegiste Cappuccino&quot;" newline="True"/>
+                            <assign variable="costo" expression="50"/>
+                            <assign variable="porcentajeAgrandar" expression="0.20"/>
+                        </then>
+                        <else>
+                            <output expression="&quot;Error!!&quot;" newline="True"/>
+                        </else>
+                    </if>
+                </else>
+            </if>
+            <output expression="&quot;Deseas agrandar tu bebida? (true/false)&quot;" newline="True"/>
+            <input variable="bebidaAgrandada"/>
+            <if expression="bebidaAgrandada == true">
+                <then>
+                    <assign variable="costo" expression="costo + costo*porcentajeAgrandar"/>
+                </then>
+                <else/>
+            </if>
+            <if expression="tipoBebida == 1">
+                <then>
+                    <declare name="conPopoteGalleta" type="Boolean" array="False" size=""/>
+                    <output expression="&quot;Desea agregar un popote de galleta? (true/false)&quot;" newline="True"/>
+                    <input variable="conPopoteGalleta"/>
+                    <if expression="conPopoteGalleta == true">
+                        <then>
+                            <assign variable="costo" expression="costo + 20"/>
+                        </then>
+                        <else/>
+                    </if>
+                </then>
+                <else/>
+            </if>
+            <output expression="&quot;El costo de tu bebida es: &quot; &amp; costo" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
